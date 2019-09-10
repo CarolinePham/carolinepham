@@ -1,0 +1,19 @@
+{
+  "name": "caroline-pham-profile",
+  "version": "0.6.0",
+  "description": "Caroline Pham Profile",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caroline Pham",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.2.1",
+    "jquery-ui-dist": "^1.12.1",
+    "popper.js": "^1.15.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
